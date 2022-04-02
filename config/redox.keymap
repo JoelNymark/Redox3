@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@JoelNymark 
-JoelNymark
-/
-Redox_v2
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Redox_v2/config/redox.keymap
-@JoelNymark
-JoelNymark Update redox.keymap
-Latest commit f0e9d93 1 minute ago
- History
- 1 contributor
-82 lines (76 sloc)  6.73 KB
-   
 /*
  * Copyright (c) 2021 The ZMK Contributors
  *
